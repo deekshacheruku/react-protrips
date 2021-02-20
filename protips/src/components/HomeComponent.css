@@ -1,0 +1,41 @@
+.mainconatiner{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1500px;
+}
+
+.nooftrips,.triptype,.subcontainer,.progress{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    padding: 20px;
+}
+
+.number{
+    font-size: 80px;
+}
+
+.subcontainer{
+    align-content: space-around;
+    justify-content: space-around;
+    padding: 0px 40px 0px 40px;
+    margin: 0px 20px 0px 20px;
+}
+
+.smallnumber{
+    font-size: 50px;
+}
+
+.progressbar{
+    width: 100px;
+    height: 10px;
+    background-color: whitesmoke;
+    margin-right: 5px;
+}

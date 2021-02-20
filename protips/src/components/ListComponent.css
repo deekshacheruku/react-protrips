@@ -1,0 +1,27 @@
+header{
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+.filter{
+    padding-top: 40px;
+    font-size: 30px;
+    margin: 20px;
+}
+
+
+.input2{
+    width: 20px;
+    height: 20px;
+}
+
+table,tr,td{
+    border-collapse: collapse;
+    padding: 5px;
+    border-spacing: 10px;
+}
+
+th{
+    width: 120px;
+    border-bottom: 2px solid beige;
+}
